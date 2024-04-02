@@ -16,29 +16,16 @@ My last portfolio was built over four years ago, and a lot has changed in that t
     - This is where I'll go over the fun side.
     - 3D printing, coding, car stuff, etc.
 
-### Getting Started/Prerequisites
+### Header
 
-What is needed for this to work.
-
-Python 3 (3.7 used)
-
-Selenium (webdriver)
-
-
-### Installing
-
-Download or clone the repo.
-
-Place into desired folder.
-
-Ensure Python is installed.
+### Header
 
 Install Selenium
 ```
 pip install selenium
 ```
 
-## Running Script
+## 2nd Header
 
 If using PyCharm, within the project directory, simply run the main.py file.
 
@@ -68,8 +55,7 @@ driver.find_element_by_id("search").send_keys("INPUT SEARCH HERE")
 
 ## Built With
 
--   [Python](https://www.python.org/) - Programming Language Used
--   [Selenium](https://pypi.org/project/selenium/) - Automates Web Browser Interaction
+-   [React](https://react.dev/) - JS Library Used
 
 ## Authors
 
