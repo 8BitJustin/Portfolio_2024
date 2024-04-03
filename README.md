@@ -10,13 +10,23 @@ My last portfolio was built over four years ago, and a lot has changed in that t
     - This is where I give a long and short description of my entire working career.
     - Here I will give details into what I know coding and how I went about learning.
     - I'll go over the specifics of what I built with Caliber to demonstrate what I've done.
-    - Maybe I'll go over my git stuff here, or will add that to...
 
 - Fun and Hobbies
     - This is where I'll go over the fun side.
     - 3D printing, coding, car stuff, etc.
+    - When I learned to code, why, that kinda stuff.
+    - Some examples of what I've coded.
 
-### Header
+### Further Details
+Since I want this to focus on two sides, the initial page wiill simply be that: two sides
+Left will show the Professional side, clicking will take you to 'Professional'.
+  - Option for long or short version of my career
+  - Examples of what I've done for work, code wise, examples of code written
+
+Right will be the fun end. I want this to focus on what makes me happy.
+  - Specifics of coding story. I put this on this side since I see coding as FUN
+  - 3D design and printing. 
+  - Car stuff
 
 ### Header
 
