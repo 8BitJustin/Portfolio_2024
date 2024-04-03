@@ -1,78 +1,70 @@
-# Portfolio 2024
+# Getting Started with Create React App
 
-Long overdue, here is what I hope is a website to show what I've done professionally, and what I do for fun.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## About
+## Available Scripts
 
-My last portfolio was built over four years ago, and a lot has changed in that time. The purpose here is to create a website that has two sides:
+In the project directory, you can run:
 
-- Professional
-    - This is where I give a long and short description of my entire working career.
-    - Here I will give details into what I know coding and how I went about learning.
-    - I'll go over the specifics of what I built with Caliber to demonstrate what I've done.
+### `npm start`
 
-- Fun and Hobbies
-    - This is where I'll go over the fun side.
-    - 3D printing, coding, car stuff, etc.
-    - When I learned to code, why, that kinda stuff.
-    - Some examples of what I've coded.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Further Details
-Since I want this to focus on two sides, the initial page wiill simply be that: two sides
-Left will show the Professional side, clicking will take you to 'Professional'.
-  - Option for long or short version of my career
-  - Examples of what I've done for work, code wise, examples of code written
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Right will be the fun end. I want this to focus on what makes me happy.
-  - Specifics of coding story. I put this on this side since I see coding as FUN
-  - 3D design and printing. 
-  - Car stuff
+### `npm test`
 
-### Header
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Install Selenium
-```
-pip install selenium
-```
+### `npm run build`
 
-## 2nd Header
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-If using PyCharm, within the project directory, simply run the main.py file.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-If using the terminal, while in the project directory, type the following:
-```
-python main.py
-```
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-To change the search parameter, change the parameter within the send_keys
- method.
-```
-driver.find_element_by_id("search").send_keys("INPUT SEARCH HERE")
-```
+### `npm run eject`
 
-## Versions
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-- V2.0
-  - 11/22/2020
-  - Program simplified. As send_email.py didn't need to be used multiple
-   times, the code for it was reworked and placed within oktane.py, along
-    with main.py code. Program now works out of one file, as send_email.py
-     is no longer used.
-- v1.0
-  - 11/15/2020
-  - Initial commit. Both main.py and send_email.py both used, main.py input
-   within launchPy.bat file
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Built With
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
--   [React](https://react.dev/) - JS Library Used
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Authors
+## Learn More
 
--   **Justin Olson** - _Initial work_ - [Portfolio](https://jodportfolio.herokuapp.com/)
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Acknowledgments
+To learn React, check out the [React documentation](https://reactjs.org/).
 
--   Kaden
--   Stack Overflow
--   Google Searching
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
